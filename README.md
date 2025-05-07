@@ -2,6 +2,7 @@
 Audrey Elizabeth Fernandez
 
 [expose](https://audreyelizabethf.github.io/Lab5_Starter/expose.html)
+[explore](https://audreyelizabethf.github.io/Lab5_Starter/explore.html)
 
 **1.  Would you use a unit test to test the “message” feature of a messaging application? Why or why not? For this question, assume the “message” feature allows a user to write and send a message to another user.**
 
